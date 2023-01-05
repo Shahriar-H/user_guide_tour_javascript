@@ -1,5 +1,5 @@
 # user_guide_tour_javascript
-![](https://github.com/user_guide_tour_javascript/main/images/project.gif)
+![](https://github.com/user_guide_tour_javascript/project.gif)
 # User Guide Tool. 
 
 
