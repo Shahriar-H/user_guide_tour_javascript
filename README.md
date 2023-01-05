@@ -3,6 +3,7 @@
 
 # User Guide Tool. 
 
+![](https://raw.githubusercontent.com/Shahriar-H/user_guide_tour_javascript/main/ezgif-5-7e06b362a0.gif)
 
 Demo:
 [CLICK HERE](https://shahriar-h.github.io/user_guide_tour_javascript/)
